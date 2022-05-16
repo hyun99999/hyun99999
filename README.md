@@ -1,6 +1,6 @@
 ## 👉 iOS Developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun99999&theme=vue&show_icons=true&custom_title=🦺🔥&locale=kr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun99999&theme=default&show_icons=true&custom_title=🦺🔥&locale=kr)
 
 ## 👷‍♂️Projects
 
