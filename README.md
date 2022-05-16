@@ -1,8 +1,12 @@
-## 👉 iOS Developer
+<div align=center>
+  
+## 👉 Hi, i am iOS developer. <br> What's happening?
+
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun99999&theme=default&show_icons=true&custom_title=🦺🔥&locale=kr)
 
-## 👷‍♂️Projects
+## 🦺 Projects
 
 |Project|Description|Period|Repo Link|
 |:---:|:---:|:---:|:---:|
