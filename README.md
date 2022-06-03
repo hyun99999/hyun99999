@@ -21,7 +21,7 @@
 |Category|Goal|Period|Tech Stack|Repo Link|
 |:---:|:---:|:---:|:---:|:---:|
 |WWDC Session|`WWDC` 살펴보기|`2022.05.24 ~ 🔥`|WWDC|[SSDC](https://github.com/Secret-Of-SwiftUI/SSDC22)|
-|Clone Coding|Open API 를 사용해서 `async/await` 적용 + `abstraction layer` 구현|`2022.04.29 ~ 🔥`|Swift, aync/await|[스펙타 클론](https://github.com/28th-SOPT-iOS-CloneCoding/SpectaClone-KimHyunGyu.git)|
+|Clone Coding|Open API 를 사용해서 `async/await` + `abstraction layer` 구현 + `Actor` |`2022.04.29 ~ 🔥`|Swift, aync/await|[스펙타 클론](https://github.com/28th-SOPT-iOS-CloneCoding/SpectaClone-KimHyunGyu.git)|
 |Swift Session|5분이상 Swift 주제를 선정해 프리토킹 세션|`2022.04.14 ~ 04.28`|Monard, Extension, Shadowing|[기강 잡는 익익왕](https://github.com/28th-SOPT-iOS-CloneCoding/weakselfWang/discussions)|
 |SwiftUI|`SwiftUI Apple Developer` 의 Tutorial 과 `Podcasts` 앱 클론코딩|`2022.02.15 ~ 05.24`|SwiftUI|[스리라차 소스 0칼로리 이유](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions)|
 |Algorithm|Swift 를 사용해서 Coding Test 대비|`2021.10.13 ~ 12.01`|Swift, Algorithm|[스위프트 알고 리듬타기](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu.git)|
