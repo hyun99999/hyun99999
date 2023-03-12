@@ -20,7 +20,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 |WWDC Session|`WWDC` 살펴보기|`2022.05.24 ~ 2022.11.08`|WWDC|[SSDC](https://github.com/Secret-Of-SwiftUI/SSDC22)|
 |Clone Coding|Open API 를 사용해서 `async/await` + `abstraction layer` 구현 + `Actor` |`2022.04.29 ~ 2022.06.24`|Swift, aync/await|[스펙타 클론](https://github.com/28th-SOPT-iOS-CloneCoding/SpectaClone-KimHyunGyu.git)|
-|Swift Session|5분이상 Swift 주제를 선정해 프리토킹 세션|`2022.04.14 ~ 04.28`|Monard, Extension, Shadowing|[기강 잡는 익익왕](https://github.com/28th-SOPT-iOS-CloneCoding/weakselfWang/discussions)|
+|Swift Session|5분이상 Swift 주제를 선정해 프리토킹 세션|`2022.04.14 ~ 04.28`|Monard, Extension, Shadowing|[기강 잡는 익익왕](https://github.com/28th-SOPT-iOS-CloneCoding/weakselfWang/discussions?discussions_q=label%3A현규보이)|
 |SwiftUI|`SwiftUI Apple Developer` 의 Tutorial 과 `Podcasts` 앱 클론코딩|`2022.02.15 ~ 05.24`|SwiftUI|[스리라차 소스 0칼로리 이유](https://github.com/Secret-Of-SwiftUI/SOS-SwiftUI/discussions)|
 |Algorithm|Swift 를 사용해서 Coding Test 대비|`2021.10.13 ~ 12.01`|Swift, Algorithm|[스위프트 알고 리듬타기](https://github.com/29th-SOPT-iOS-SwiftAlgo-Rhythmtagi/KimHyungyu.git)|
 |Clone Coding|`카카오톡 QR코드 Widget` 클론코딩 및 OpenSource Library 해체쇼(`Alamofire`)|`2021.08.26 ~ 11.30`|Swift, SwiftUI, MVVM, SnapKit, SPM|[미라 클론](https://github.com/28th-SOPT-iOS-CloneCoding/MiraClone-KimHyunGyu.git)|
